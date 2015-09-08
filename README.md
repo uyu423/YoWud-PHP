@@ -7,8 +7,8 @@ YoWu's PHP Framework
 
 ## Features
 * MVC Model 2
-* include Bootstrap 3.3.5 CSS Framework.
-* include jQuery 2.1.4 Library (Compress)
+* include Bootstrap 3.3.5 CSS Framework. (Bootstrap has MIT License)
+* include jQuery 2.1.4 Compress Library. (jQuery has MIT License)
 * provide MySQL/MariaDB DBMS Functions.
 * provide Multi Class in One PHP File.
 
